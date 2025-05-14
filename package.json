@@ -1,0 +1,17 @@
+{
+  "name": "student-social-app",
+  "version": "1.0.0",
+  "description": "A simple private social networking app for students",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^8.4.0",
+    "connect-sqlite3": "^0.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}

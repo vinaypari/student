@@ -1,0 +1,1 @@
+// SQLite schema definition for users, posts, comments, likes, friends
